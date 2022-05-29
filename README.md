@@ -10,7 +10,7 @@ Run Locally
 
 Clone This Project : https://github.com/ronak-d/licious.in.git
 
-<img width="960" alt="Screenshot 2022-05-29 214136" src="https://user-images.githubusercontent.com/97451974/170880830-1e3f3f54-2d1e-4acd-a07e-957373da68d8.png">
+<img width="960" alt="Screenshot 2022-05-29 211702" src="https://user-images.githubusercontent.com/97451974/170881020-9aada694-805d-44ca-8a07-bea54315ba9d.png">
 
 
 Tech stack we have used:

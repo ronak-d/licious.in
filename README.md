@@ -9,6 +9,7 @@ able to clone the front end with similar looks and features.
 Run Locally
 
 Clone This Project : https://github.com/ronak-d/licious.in.git
+https://drive.google.com/file/d/1G4IkMQA2dtI2SkY8DCrM3S9di3fllK-Z/view?usp=sharing
 
 
 Tech stack we have used:

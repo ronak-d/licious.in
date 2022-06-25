@@ -1,35 +1,31 @@
-# licious.in
-Licious.in (Clone)
+# myfirstproject_licious
+As a part of Unit-2 Construct Week Project. We have cloned Licious Website.
 
-Project - 1: 
-In this Project we have tried to make a simailar looking Licious website
-With our Efforts and the technology stack, that we have learned till now in unit-2 in Masai School, we were 
-able to clone the front end with similar looks and features.
+# Demo Link : https://neon-froyo-450507.netlify.app/
 
-Run Locally
+## About Project
 
-Clone This Project : https://github.com/ronak-d/licious.in.git
+## Build With
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+  
+## Core Functionalities
+* Login/Signup
+* home page
+* Product Page
+* Add to cart
+* Checkout
+* Payment
 
-<img width="960" alt="Screenshot 2022-05-29 211702" src="https://user-images.githubusercontent.com/97451974/170881020-9aada694-805d-44ca-8a07-bea54315ba9d.png">
-
-
-Tech stack we have used:
-. HTML
-. CSS
-. Javascript
-
-Along with that, in order to store user data and products data we also used localstorage which is provided by the browser.
-
-Here Are Some Images of the website.
-
-LANDING Page
-Log in Page 
-Cataegories overview
+# Quick Tour to our Project
+1. This is the landing page of our website.
 
 
-Team Memebers:
+2. This the shop by category page where the user can find all the products related to men's category.
 
-Ronak Dodeja
-Jayprakash Gupta 
-Prajakta Hadole
-Roshan Arikar
+
+3. This the shop by category page where the user can find all the products related to women's category.
+
+

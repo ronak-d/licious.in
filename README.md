@@ -1,4 +1,4 @@
-# myfirstproject_licious
+# licious.in clone
 As a part of Unit-2 Construct Week Project. We have cloned Licious Website.
 
 # Demo Link : https://neon-froyo-450507.netlify.app/
